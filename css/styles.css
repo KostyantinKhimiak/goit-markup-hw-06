@@ -393,6 +393,8 @@ img {
   }
   .hero-title {
     margin-bottom: 48px;
+    letter-spacing: 0.02em;
+    margin: 0 auto 72px;
   }
 }
 
@@ -522,10 +524,12 @@ img {
   .feature-subtitle {
     font-weight: 500;
     font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
   }
 
   .feature-description {
-    font-weight: 400; /* Normal weight for desktop */
+    font-weight: 400;
   }
 }
 
